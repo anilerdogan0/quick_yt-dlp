@@ -15,10 +15,10 @@
 
 ### Using:
 * Open Command Prompt.
-* Text "yt" and add link. (example: "yt https://www.youtube.com/watch?v=EfSJnVJyZvo")
+* Text "yt" and add link. (example: `yt https://www.youtube.com/watch?v=EfSJnVJyZvo`)
 * You will see formats table.
 * Select formats you want.
-* Text "yt", link again and add formats. (example: "yt https://www.youtube.com/watch?v=zmBMil5vmCo 251+137")
+* Text "yt", link again and add formats. (example: `yt https://www.youtube.com/watch?v=zmBMil5vmCo 251+137`)
 * Download will be starts.
 
 ### Compilation:
