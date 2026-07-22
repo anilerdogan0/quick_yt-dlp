@@ -3,7 +3,7 @@
 * Download [yt-dlp](https://github.com/yt-dlp/yt-dlp/releases)
 * Extract yt-dlp files to a local folder.
 * Download [yt.exe](https://github.com/anilerdogan0/quick_yt-dlp/releases/tag/builds)
-* Extract copy yt.exe to yt-dlp folder.
+* Copy yt.exe to yt-dlp folder.
 * Press Win + R keys.
 * Write "sysdm.cpl" to Run and press enter.
 * Press "Environment Variables" on this window.
